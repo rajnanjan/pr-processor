@@ -1,0 +1,10 @@
+{
+  "buyer": {
+    "allowedPlants": ["PlantA", "PlantB"],
+    "maxAmount": 50000
+  },
+  "manager": {
+    "allowedPlants": ["PlantA", "PlantC", "PlantD"],
+    "maxAmount": 200000
+  }
+}
